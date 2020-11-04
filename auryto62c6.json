@@ -1,0 +1,19 @@
+{
+    "firstName": "Xavier",
+    "lastName": "Gonzalez",
+    "preferredName": "Xavier",
+    "email": "xavieragonzalez@lewisu.edu",
+    "phoneNumber": "3129986259",
+    "class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"403",
+	"inPerson":[ "Monday" ],
+	"virtual": [ "Wednesday", "Friday" ],
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60656",
+    "lat": "41.8781",
+    "lng": "87.6298",
+    "favoriteHobby": "Video Games"
+}
